@@ -48,9 +48,9 @@ function convertir(){
     {
         resultado=valor;
     }
-    document.getElementById("resultado").innerHTML="resultado: $" + resultado.toFixed(2);
-    console.log("resultado") 
-
+    document.getElementById("resultado").innerHTML="Resultado: $" + resultado.toFixed(2);
+     
+}
 
 
 
